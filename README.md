@@ -1,2 +1,2 @@
 # sampleapp
-こちらは、AWS Cloud9 向けに、調整されたpom.xml を配置したJavaサンプルアプリケーションです。
+こちらは、VisualStudio Code 向けに、Java17対応の標準的な pom.xml を配置したJavaサンプルアプリケーションです。
